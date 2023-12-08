@@ -1,16 +1,13 @@
-# weather_app
+# FLUTTER WEATHER APP
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Key Features:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API Integration: Utilizes reliable weather APIs to fetch accurate and up-to-date information.
+Dynamic UI: A responsive and dynamic user interface that adapts to different screen sizes.
+Location-based Weather: Allows users to get weather updates for their current location or any location worldwide.
+Forecasting: Provides detailed weather forecasts, including temperature, humidity, wind speed, and more.
+Flutter Framework: Built using the Flutter framework for a cross-platform experience.
