@@ -20,13 +20,13 @@ Key Features:
  
    #### Navigate to Project Directory:
    - Change into the project directory
-   - 
+   
    #### Install Dependencies:
    - Ensure that you have Flutter installed. If not, follow the official Flutter installation guide.
    - Install project dependencies by running(**flutter pub get**)
      
    #### API Key Setup:
-   - Obtain API keys for the weather services you're using (e.g., **OpenWeatherMap
+   - Obtain API keys for the weather services you're using (e.g., **OpenWeatherMap**)
    
    #### Run the App:
 
